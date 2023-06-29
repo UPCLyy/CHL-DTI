@@ -1,5 +1,5 @@
 ## CHL-DTI:
-A novel high-low order information convergence framework for effective drug-target interaction prediction
+A method for Converging High-order and Low-order information for drug-target interaction prediction
 ### Quick start
 We provide an example script to run experiments on our dataset: 
 
